@@ -1,0 +1,19 @@
+.class {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#ID1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.class.extra {
+    font-size: 24px;
+}
+
+#ID2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
